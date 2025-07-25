@@ -37,6 +37,11 @@
 
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=54CDE3&center=true&vCenter=true&width=650&lines=Sé+un+buen+profesional;Sé+una+buena+persona" alt="Typing SVG" />
+</div>
+
+
 ## 👌 About me
 ¡Soy **Mascota**, un estudiante universitario de la **César Vallejo** de la carrera de **Ingeniería de Sistemas**!. Me gusta la programación y la gestión de base de datos, admiro a ciertos programadores que ayudan a las demás personas a poder seguir creciendo en su etapa profesional, este es mi espacio de colaboración de proyecto y espero les sea de su total agrado.
 
